@@ -16,6 +16,10 @@
 
 ## 目录
 
+本项目由[![GitHub](https://img.shields.io/github/license/MemoryShadow/Minecraft-Getting-Started-Guide)](/ "查看协议")开源，欢迎提交PR与传播
+
+[![Progress](https://progress-bar.dev/45/?title=JavaEditio)](Java%20Edition.md "点击前往") 
+
 * [开始游戏前的准备](#开始游戏前的准备 "我要开动啦")
   * [安装Java](#安装Java "这是...秃顶?")
 * [开始游戏](#开始游戏 "欣赏这光怪陆离的世界")
