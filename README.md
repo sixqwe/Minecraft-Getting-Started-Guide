@@ -10,7 +10,7 @@
 文章列表:
 
 * [![Progress](https://progress-bar.dev/45/?title=JavaEditio)](Java%20Edition "点击前往") 
-* [![Progress](https://progress-bar.dev/0/?title=BedrockEdition)](https://sgpublic.xyz/mc/index.html "点击前往")
+* [![Progress](https://progress-bar.dev/0/?title=BedrockEdition)](Bedrock%20Edition "点击前往")
 
 本项目并非用于取代Minecraft Wiki，宗旨在于降低新人加入此世界的难度与在一定的程度上解决新人一定的疑惑，同时引导他们如何正确的提问和如何正确高效的处理问题
 
